@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Statistic">
+    <option name="fileTypes" value="asset;sln;csproj;collabignore;dotsettings;meta;class;svn-base;svn-work;Extra;gif;png;jpg;jpeg;bmp;tga;tiff;ear;war;zip;jar;iml;iws;ipr;bz2;gz;" />
+    <option name="excludedDirectories">
+      <list>
+        <option value="$PROJECT_DIR$/.idea" />
+        <option value="$PROJECT_DIR$/Library" />
+        <option value="$PROJECT_DIR$/Logs" />
+        <option value="$PROJECT_DIR$/obj" />
+        <option value="$PROJECT_DIR$/Packages" />
+        <option value="$PROJECT_DIR$/ProjectSettings" />
+        <option value="$PROJECT_DIR$/Temp" />
+        <option value="$PROJECT_DIR$/Assets/_TerrainAutoUpgrade" />
+        <option value="$PROJECT_DIR$/Assets/2d-extras-master" />
+        <option value="$PROJECT_DIR$/Assets/Animations" />
+        <option value="$PROJECT_DIR$/Assets/AstarPathfindingProject" />
+        <option value="$PROJECT_DIR$/Assets/DR Palette" />
+        <option value="$PROJECT_DIR$/Assets/Fonts" />
+        <option value="$PROJECT_DIR$/Assets/Legacy" />
+        <option value="$PROJECT_DIR$/Assets/New Palettes" />
+        <option value="$PROJECT_DIR$/Assets/Palettes" />
+        <option value="$PROJECT_DIR$/Assets/Photon" />
+        <option value="$PROJECT_DIR$/Assets/Prefabs" />
+        <option value="$PROJECT_DIR$/Assets/Resources" />
+        <option value="$PROJECT_DIR$/Assets/Scenes" />
+        <option value="$PROJECT_DIR$/Assets/Sounds" />
+        <option value="$PROJECT_DIR$/Assets/Sprites" />
+        <option value="$PROJECT_DIR$/Assets/Tiles" />
+      </list>
+    </option>
+  </component>
+</project>
